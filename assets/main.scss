@@ -11,6 +11,15 @@ $content-width:    100% !default;
   box-sizing: border-box;
 }
 
+.site-header {
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+.site-title, .site-nav {
+  line-height: $base-line-height * $base-font-size * 3.5;
+}
+
 .portfolio {
   a {
     float: left;
