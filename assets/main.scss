@@ -46,12 +46,18 @@ img.rounded {
 
 .portfolio {
   a {
+    overflow: hidden;
     float: left;
     display: block;
     width: 33.3333%;
 
     img {
       width: 100%;
+      transition: all 0.3s;
+    }
+
+    &:hover img {
+      transform: scale(1.2);
     }
 
     @include media-query($on-palm) {
