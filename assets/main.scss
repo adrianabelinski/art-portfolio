@@ -2,4 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// Overriding variables declared in "minima". For some reason in SCSS, the first declaration of variables overrides successive declarations.
+$content-width:    100% !default;
+$on-palm:          100% !default;
+$on-laptop:        100% !default;
+
 @import "minima";
