@@ -1,7 +1,7 @@
 ---
 title: Edel
 thumbnail: edel.jpeg
-layout: portfolio
+layout: portfolio-item
 ---
 
 Hello world.

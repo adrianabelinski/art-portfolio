@@ -1,7 +1,7 @@
 ---
 title: Amai
 thumbnail: amai.jpeg
-layout: portfolio
+layout: portfolio-item
 ---
 
 Hello world.

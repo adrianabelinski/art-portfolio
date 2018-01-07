@@ -1,7 +1,7 @@
 ---
 title: Mobineo
 thumbnail: mobineo.jpeg
-layout: portfolio
+layout: portfolio-item
 ---
 
 Hello world.
