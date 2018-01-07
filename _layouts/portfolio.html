@@ -1,11 +1,13 @@
-<!-- This page is the layout of the portfolio, which is shown on the homepage. It specifies how to display the grid of thumbnails for portfolio items. -->
 ---
 layout: default
+# This page is the layout of the portfolio, which is shown on the homepage. It specifies how to display the grid of thumbnails for portfolio items.
 ---
 
 <div class="portfolio">
   {% assign items = site.portfolio | sort: 'order' %}
   {% for item in items %}
-    <a href="{{ item.url }}"><img src="assets/portfolio-thumbnails/{{ item.thumbnail }}"></a>
+    <a href="{{ item.url }}">
+      <img src="assets/portfolio-thumbnails/{{ item.thumbnail }}">
+    </a>
   {% endfor %}
 </div>
