@@ -2,14 +2,12 @@
 layout: default
 ---
 
-<div class="home">
-
-Portfolio:
+<div class="portfolio">
 
 {% for item in site.portfolio %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
+  <article>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  </article>
 {% endfor %}
 
 </div>
