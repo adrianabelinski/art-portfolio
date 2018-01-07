@@ -3,11 +3,8 @@ layout: default
 ---
 
 <div class="portfolio">
-
-{% for item in site.portfolio %}
-  <article>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-  </article>
-{% endfor %}
-
+  {% assign items = site.portfolio | sort: 'order' %}
+  {% for item in items %}
+    <a href="{{ item.url }}"><img src="assets/portfolio-thumbnails/{{ item.thumbnail }}"></a>
+  {% endfor %}
 </div>

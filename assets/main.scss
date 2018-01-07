@@ -8,3 +8,19 @@ $on-palm:          100% !default;
 $on-laptop:        100% !default;
 
 @import "minima";
+
+* {
+  box-sizing: border-box;
+}
+
+.portfolio {
+  a {
+    float: left;
+    display: block;
+    width: 33.3333%;
+
+    img {
+      width: 100%;
+    }
+  }
+}
