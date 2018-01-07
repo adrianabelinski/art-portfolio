@@ -58,6 +58,7 @@ img.rounded {
 
     &:hover img {
       transform: scale(1.2);
+      opacity: 0.0;
     }
 
     @include media-query($on-palm) {
