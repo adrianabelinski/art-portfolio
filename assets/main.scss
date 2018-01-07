@@ -20,6 +20,16 @@ $content-width:    100% !default;
   line-height: $base-line-height * $base-font-size * 3.5;
 }
 
+.page-content {
+  .wrapper {
+    max-width: 900px;
+  }
+}
+
+.post-title {
+  text-align: center;
+}
+
 .portfolio {
   a {
     float: left;
