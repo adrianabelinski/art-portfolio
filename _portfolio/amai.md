@@ -11,11 +11,18 @@ Amai Surprise is a brand of dried fruit snacks for kids. The goal of the project
 This brand design is based off of the concept of "magical girls". This are characters from kid's tv shows that have the ability to transform into their super hero selfs and save the day. With the growing interest of anime in the West, branding fruit snacks with magical girls will attract kids from newer generations that are growing familiar with this media.
 
 ![Adriana Belinski]({{ "/assets/images/amai.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai2.jpg" | relative_url }}){:class="full-width"}
 ![Adriana Belinski]({{ "/assets/images/amai3.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai4.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai5.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai6.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai7.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai8.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai9.jpg" | relative_url }}){:class="full-width"}

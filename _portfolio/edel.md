@@ -20,7 +20,11 @@ The backside of the bottle features monsters that were believed to have existed 
 
 ![Adriana Belinski]({{ "/assets/images/edel6.jpg" | relative_url }}){:class="full-width"}
 ![Adriana Belinski]({{ "/assets/images/edel7.jpg" | relative_url }}){:class="centered" style="width: 60%"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel9.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel2.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel3.jpg" | relative_url }}){:class="full-width"}
