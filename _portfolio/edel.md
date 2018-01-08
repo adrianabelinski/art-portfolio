@@ -1,13 +1,23 @@
 ---
 title: Edel
-thumbnail: edel.jpeg
-thumbnail-hover: edel-hover.jpeg
+thumbnail: edelthumbnail.jpg
+thumbnail-hover: edelthumbnail2.jpg
 order: 1
 layout: portfolio-item
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt, justo vel malesuada consectetur, enim lacus luctus justo, eu pretium mi lorem vel dui. Praesent a dolor a tellus ultrices accumsan. Aenean velit nunc, volutpat vestibulum finibus sed, porttitor a leo. Aenean lacus lorem, sollicitudin consectetur posuere non, elementum et erat. Donec et condimentum felis. Etiam laoreet felis dolor. Integer in felis tortor.
+In this project, I re-branded Izze's sparkling apple drink to fit a new target audience: young adults who don't drink alcohol but still want feel upperclass. The idea behind the design was to connect apples with its symbolic roots so I created a design which communicated divinity through its use of gold and white colors, Alphonse Mucha-like decorative swirls, and references to 15th century calligraphy.
 
-Nunc at hendrerit libero. Nulla orci est, finibus eget lectus eu, sodales venenatis tellus. Nam velit urna, dignissim vel luctus vehicula, molestie sed felis. Integer gravida aliquam consectetur. Cras eu pretium justo. Morbi lacinia odio felis, sed ultrices velit imperdiet eu. Morbi gravida sem eros, eget iaculis arcu porta in. Curabitur sit amet magna non lectus eleifend convallis. Nunc justo dolor, commodo vel enim ac, feugiat lacinia odio. Mauris ac sagittis erat, id gravida metus. Morbi elementum vel erat sit amet congue. Aliquam erat lacus, posuere vel purus et, sollicitudin aliquam sem. Aenean eros nisi, vulputate sagittis auctor vitae, ultrices sit amet est. Proin lacinia diam ultricies, placerat metus ut, porttitor felis. Nam lacinia lobortis odio, vitae pulvinar ex tristique eu.
+![Adriana Belinski]({{ "/assets/images/Edel8.jpg" | relative_url }}){:class="centered" width="1000px"}
 
-Pellentesque dapibus est ante, vel fringilla odio tincidunt eget. Aliquam sodales elit fermentum massa pharetra, vitae bibendum sapien facilisis. Morbi posuere rhoncus quam vestibulum gravida. Sed pulvinar tellus vitae efficitur venenatis. Vivamus lobortis quis urna vitae condimentum. Nunc tincidunt rhoncus quam, pharetra aliquam enim euismod non. Nullam ornare, neque sed dignissim consectetur, justo ante vehicula eros, quis mattis dui lorem eget ante. Sed feugiat dui et lectus fringilla, quis dapibus erat vestibulum.
+![Adriana Belinski]({{ "/assets/images/Edel4.jpg" | relative_url }}){:class="centered" width="1000px"}
+In the front of the bottle, I laser cut a white label and at the back of each bottle is a bizarre image of houses tumbling and breaking into each other which plays on the idea of distortion usually caused by alcoholic drinks.
+
+![Adriana Belinski]({{ "/assets/images/Edel5.jpg" | relative_url }}){:class="centered" width="1000px"}
+The backside of the bottle features monsters that were believed to have existed in the 15th century. These pictures were taken from a book called the Nuremberg chronicles which contains the cumulative knowledge of what the people of Germany knew about the world.
+![Adriana Belinski]({{ "/assets/images/Edel6.jpg" | relative_url }}){:class="centered" width="1000px"}
+![Adriana Belinski]({{ "/assets/images/Edel7.jpg" | relative_url }}){:class="centered" width="600px"}
+![Adriana Belinski]({{ "/assets/images/edel9.jpg" | relative_url }}){:class="centered" width="1000px"}
+![Adriana Belinski]({{ "/assets/images/edel.jpg" | relative_url }}){:class="centered" width="1000px"}
+![Adriana Belinski]({{ "/assets/images/edel2.jpg" | relative_url }}){:class="centered" width="1000px"}
+![Adriana Belinski]({{ "/assets/images/edel3.jpg" | relative_url }}){:class="centered" width="1000px"}

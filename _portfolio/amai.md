@@ -1,9 +1,9 @@
 ---
-title: Amai
-thumbnail: amai.jpeg
-thumbnail-hover: amai-hover.jpeg
+title: Amai Surprise
+thumbnail: amaithumbnail.jpg
+thumbnail-hover: amaithumbnail2.jpg
 order: 3
 layout: portfolio-item
 ---
 
-Hi world. 
+Hi world.
