@@ -20,6 +20,11 @@ img.centered {
   margin: auto;
 }
 
+img.full-width {
+  display: block;
+  width: 100%;
+}
+
 img.rounded {
   border-radius: 50%;
 }
