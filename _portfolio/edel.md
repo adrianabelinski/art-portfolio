@@ -6,13 +6,13 @@ order: 1
 layout: portfolio-item
 ---
 
-In this project, I re-branded Izze's sparkling apple drink to fit a new target audience: young adults who don't drink alcohol but still want feel upperclass. The idea behind the design was to connect apples with its symbolic roots so I created a design which communicated divinity through its use of gold and white colors, Alphonse Mucha-like decorative swirls, and references to 15th century calligraphy.
+In this project, I rebranded Izze's sparkling apple drink to fit a new target audience: young adults who don't drink alcohol but still want feel upperclass. The idea behind the design was to connect apples with its symbolic roots so I created a design which communicated divinity through its use of gold and white colors, Alphonse Mucha-like decorative swirls, and references to 15th century calligraphy.
 
 ![Adriana Belinski]({{ "/assets/images/edel8.jpg" | relative_url }}){:class="full-width"}
 
 ![Adriana Belinski]({{ "/assets/images/edel4.jpg" | relative_url }}){:class="full-width"}
 
-In the front of the bottle, I laser cut a white label and at the back of each bottle is a bizarre image of houses tumbling and breaking into each other which plays on the idea of distortion usually caused by alcoholic drinks.
+In the front of the bottle, I laser cut a white label and at the back of each bottle is an image of houses tumbling and breaking into each other which plays on the idea of distortion usually caused by alcoholic drinks.
 
 ![Adriana Belinski]({{ "/assets/images/edel5.jpg" | relative_url }}){:class="full-width"}
 
