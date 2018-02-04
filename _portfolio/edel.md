@@ -36,7 +36,7 @@ The backside of the bottle features monsters that were believed to have existed 
 
 <div class="video-container" id="laser-video">
   <video autoplay loop muted>
-    <source src="{{"/assets/videos/videooflasercut.mp4" | relative_url }}" type="video/mp4">
+    <source src="{{"/assets/videos/laser-cut.mp4" | relative_url }}" type="video/mp4">
   </video>
   <script>
       document.getElementById('laser-video').play();
