@@ -72,3 +72,22 @@ img.rounded {
     }
   }
 }
+
+.video-container {
+  display: inline-block;
+  overflow: hidden;
+
+  video {
+    width: 100%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+  }
+}
+
+#spinvideo {
+  width: 300px;
+}
+
+#laservideo {
+  width: 515px;
+}
