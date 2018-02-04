@@ -25,23 +25,24 @@ The backside of the bottle features monsters that were believed to have existed 
 <br><br><br><br>
 
 
-<div class="video-container" id="spinvideo">
+<div class="video-container" id="spin-video">
   <video autoplay loop muted>
-    <source src="assets/videos/spin.mp4" type="video/mp4">
+    <source src="{{"/assets/videos/spin.mp4" | relative_url }}" type="video/mp4">
   </video>
   <script>
-      document.getElementById('spinvideo').play();
+      document.getElementById('spin-video').play();
   </script>
 </div>
 
-<div class="video-container" id="laservideo">
+<div class="video-container" id="laser-video">
   <video autoplay loop muted>
-    <source src="assets/videos/videooflasercut.mp4" type="video/mp4">
+    <source src="{{"/assets/videos/videooflasercut.mp4" | relative_url }}" type="video/mp4">
   </video>
   <script>
-      document.getElementById('laservideo').play();
+      document.getElementById('laser-video').play();
   </script>
 </div>
+
 
 
 <br><br><br><br>
