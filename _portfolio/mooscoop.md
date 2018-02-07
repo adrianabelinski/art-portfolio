@@ -11,6 +11,17 @@ Mooscoop is a fictional brand of organic kid's yogurt that I created for my Iden
 
 In branding Mooscoop, I chose a bright color scheme that still suggests fruit but not so excessive that it would imply overly sugary. I did this by balancing areas of white space with color to suggest the smaller ratio of fruit to milk in the actual product.
 
+
+
+![mooscoopphoto]({{ "/assets/images/mooscoopphoto.jpf" | relative_url }}){:class="full-width"}
+
+![mooscoopphoto2]({{ "/assets/images/mooscoopphoto2.jpf" | relative_url }}){:class="full-width"}
+
+![mooscoopphoto3]({{ "/assets/images/mooscoopphoto3.jpf" | relative_url }}){:class="full-width"}
+<br>
+
+
+
 <h1>Final Mooscoop Envelope, Business Letter, and Business Cards</h1>
 ![mooscoopenvelopes]({{ "/assets/images/mooscoopenvelopes.jpg" | relative_url }}){:class="full-width"}
 <br>
@@ -43,8 +54,8 @@ There are two sets of my business cards: one set uses cardboard with a laser cut
 ![mooscoopfinallogos]({{ "/assets/images/mooscoopfinallogos.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![mooscooplogotypefinal]({{ "/assets/images/mooscooplogotypefinal.jpg" | relative_url }}){:class="full-width"}
-<br><br><br><br>
-<h1>Business Set Rough Drafts</h1>
+<br>
+<!--<h1>Business Set Rough Drafts</h1>
 ![mooscoopdraft1]({{ "/assets/images/mooscoopdraft1.jpg" | relative_url }}){:class="full-width"}
 In this draft, I combined three bright colors in a playful, dripping effect to reflect the yogurt the brand would sell.
 <br>
@@ -52,4 +63,4 @@ In this draft, I combined three bright colors in a playful, dripping effect to r
 This design focuses on a mature look with its monochromatic color scheme. The design wasn't chosen because its didn't communicate the dairy aspect of the brand.
 <br>
 ![mooscoopdraft3]({{ "/assets/images/mooscoopdraft3.jpg" | relative_url }}){:class="full-width"}
-This theme focuses on the organic aspect of the brand with its use of earthly colors and "organic" shapes.
+This theme focuses on the organic aspect of the brand with its use of earthly colors and "organic" shapes.-->
