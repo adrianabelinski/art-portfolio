@@ -7,17 +7,17 @@ layout: portfolio-item
 
 ---
 
-Mooscoop is a fictional brand of organic kid's yogurt that I created for my Identity and Symbols class. Most kid's yogurt packaging uses over-the-top and outdated motifs like surfing cows or animals with sunglasses. Even organic yogurt brands like Lifeway's Probug yogurt pouches uses excessive amounts of bright colors which could put off parents, thinking the yogurt is packed with sugar, from buying the yogurt for their kids.
+Mooscoop is a brand of organic kid's yogurt that I created for my Identity and Symbols class. Most kid's yogurt packaging uses over-the-top and outdated motifs like surfing cows or animals with sunglasses. Even organic yogurt brands like Lifeway's Probug yogurt pouches uses excessive amounts of bright colors which could put off parents, thinking the yogurt is packed with sugar, from buying the yogurt for their kids.
 
 In branding Mooscoop, I chose a bright color scheme that still suggests fruit but not so excessive that it would imply overly sugary. I did this by balancing areas of white space with color to suggest the smaller ratio of fruit to milk in the actual product.
 
 
 
-![mooscoopphoto]({{ "/assets/images/mooscoopphoto.jpf" | relative_url }}){:class="full-width"}
+![mooscoopphoto]({{ "/assets/images/mooscoopphoto.jpg" | relative_url }}){:class="full-width"}
 
-![mooscoopphoto2]({{ "/assets/images/mooscoopphoto2.jpf" | relative_url }}){:class="full-width"}
+![mooscoopphoto2]({{ "/assets/images/mooscoopphoto2.jpg" | relative_url }}){:class="full-width"}
 
-![mooscoopphoto3]({{ "/assets/images/mooscoopphoto3.jpf" | relative_url }}){:class="full-width"}
+![mooscoopphoto3]({{ "/assets/images/mooscoopphoto3.jpg" | relative_url }}){:class="full-width"}
 <br>
 
 
