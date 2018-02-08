@@ -1,7 +1,7 @@
 ---
 title: Alison
-thumbnail: alison.jpg
-thumbnail-hover: alison.jpg
+thumbnail: alisonthumbnail.jpg
+thumbnail-hover: alisonthumbnail.jpg
 order: 6
 layout: portfolio-item
 
