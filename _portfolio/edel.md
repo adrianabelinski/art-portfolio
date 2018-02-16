@@ -8,7 +8,9 @@ layout: portfolio-item
 
 In this project, I rebranded Izze's sparkling apple drink to fit a new target audience: young adults who don't drink alcohol but still want feel upperclass. The idea behind the design was to connect apples with its symbolic roots so I created a design which communicated divinity through its use of gold and white colors, Alphonse Mucha-like decorative swirls, and references to 15th century calligraphy.
 
-![Adriana Belinski]({{ "/assets/images/edel8.jpg" | relative_url }}){:class="full-width"}
+
+
+<!--[Adriana Belinski]({{ "/assets/images/edel8.jpg" | relative_url }}){:class="full-width"}-->
 
 ![Adriana Belinski]({{ "/assets/images/edel4.jpg" | relative_url }}){:class="full-width"}
 
@@ -16,9 +18,18 @@ In the front of the bottle, I laser cut a white label and at the back of each bo
 
 ![Adriana Belinski]({{ "/assets/images/edel5.jpg" | relative_url }}){:class="full-width"}
 
-The backside of the bottle features monsters that were believed to have existed in the 15th century. These pictures were taken from a book called the Nuremberg chronicles which contains the cumulative knowledge of what the people of Germany knew about the world.
+The backside of the bottle features monsters that were believed to have existed in the 15th century. These pictures were taken from a book called the Nuremberg Chronicle which contains the cumulative knowledge of what the people of Germany knew about the world.
 
 ![Adriana Belinski]({{ "/assets/images/edel6.jpg" | relative_url }}){:class="full-width"}
+All four bottles fit into a 4-pack soda box.
+<br><br>
+![Adriana Belinski]({{ "/assets/images/pamphlet1.jpg" | relative_url }}){:class="full-width"}
+![Adriana Belinski]({{ "/assets/images/pamphlet2.jpg" | relative_url }}){:class="full-width"}
+I created a pamphlet featuring all of the creatures from the Nuremburg Chronicle since every 4-pack contains only 4 bottles. (This pamphlet is slid into the 4-pack box.)
+<br><br>
+![Adriana Belinski]({{ "/assets/images/edelfull.jpg" | relative_url }}){:class="full-width"}
+This photo displays all four parts of the 4-pack: the box, the bottle designs and the pamphlet.
+<br><br>
 ![Adriana Belinski]({{ "/assets/images/edel7.jpg" | relative_url }}){:class="centered" style="width: 60%"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel9.jpg" | relative_url }}){:class="full-width"}
@@ -44,10 +55,11 @@ The backside of the bottle features monsters that were believed to have existed 
 </div>
 
 
-
+<!--
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel2.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/edel3.jpg" | relative_url }}){:class="full-width"}
+-->
