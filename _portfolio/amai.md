@@ -13,26 +13,32 @@ This brand design is based off of the concept of "magical girls". These are char
 ![Adriana Belinski]({{ "/assets/images/amai.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai2.jpg" | relative_url }}){:class="full-width"}
+Front of the packets.
 ![Adriana Belinski]({{ "/assets/images/amai3.jpg" | relative_url }}){:class="full-width"}
+Back of the packets.
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai4.jpg" | relative_url }}){:class="full-width"}
+The final box will come with a bracelet. Often in magical girl shows, a character has an item such as a necklace or wand that helps them transform into their superhero selves. Our main character Rose tranforms using her special bracelet. The back of the box displays her pre-transformation scene.
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/cards1.jpg" | relative_url }}){:class="full-width"}
-Each individual fruit packet comes with a card of the character from the front of the packet.
+Each individual fruit packet comes with a card of the character from the front of the packet. Each card depicts a virtuous action followed by a description of the action.
 <br><br>
 ![Adriana Belinski]({{ "/assets/images/cards2.jpg" | relative_url }}){:class="full-width"}
 This is the back of the cards.
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amaipack.jpg" | relative_url }}){:class="full-width"}
-This project highlights the Strawberry Mango edition of the Amai Surprise franchise.
+This project highlights the Strawberry Mango edition of the Amai Surprise franchise. Hence the box design, card, packet and bracelet have the color scheme of Rose, the Strawberry Mango girl.
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai5.jpg" | relative_url }}){:class="full-width"}
+The packets and the bracelet fit snugly in the Amai Surprise box, which has a clear top so one can view the contents.
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai6.jpg" | relative_url }}){:class="full-width"}
 The final box contains three fruit packets, one bracelet, and three cards. (Everything is cushioned by glittering filler)
+<!--
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai7.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai8.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai9.jpg" | relative_url }}){:class="full-width"}
+-->
