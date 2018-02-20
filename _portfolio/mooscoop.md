@@ -38,12 +38,15 @@ The back of the business letter contains all the colors of my brand in a bright 
 There are two sets of my business cards: one set uses cardboard with a laser cut design to show the brand's environmentally friendly aspect while the white version references the white envelope that the business letter came in. Each business card is the shape of a grocery paper bag and in each set of business cards is a 3d sticker.
 <br><br><br><br>
 <h1>Mooscoop Landing Page Designs</h1>
-![mooscooplandingpage1]({{ "/assets/images/mooscooplandingpage1.jpg" | relative_url }}){:class="full-width"}
+![mooscooplandingpage1]({{ "/assets/images/mooscoop_laptop_mockup_1.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
-![mooscooplandingpage2]({{ "/assets/images/mooscooplandingpage2.jpg" | relative_url }}){:class="full-width"}
+![mooscooplandingpage2]({{ "/assets/images/mooscoop_laptop_mockup_2.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
-![mooscooplandingpage3]({{ "/assets/images/mooscooplandingpage3.jpg" | relative_url }}){:class="full-width"}
+![mooscooplandingpage3]({{ "/assets/images/mooscoop_laptop_mockup_3.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
+
+<!--
+
 <h1>Mooscoop Logotype Ideation</h1>
 ![mooscooplogotypes]({{ "/assets/images/mooscooplogotypes.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
@@ -55,6 +58,9 @@ There are two sets of my business cards: one set uses cardboard with a laser cut
 <br><br><br><br>
 ![mooscooplogotypefinal]({{ "/assets/images/mooscooplogotypefinal.jpg" | relative_url }}){:class="full-width"}
 <br>
+
+-->
+
 <!--<h1>Business Set Rough Drafts</h1>
 ![mooscoopdraft1]({{ "/assets/images/mooscoopdraft1.jpg" | relative_url }}){:class="full-width"}
 In this draft, I combined three bright colors in a playful, dripping effect to reflect the yogurt the brand would sell.
