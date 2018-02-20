@@ -39,6 +39,13 @@ img.rounded {
   line-height: $base-line-height * $base-font-size * 4;
 }
 
+.site-title {
+  img {
+    height: 30px;
+    padding: 0px 10px 5px 0px;
+  }
+}
+
 .page-content {
   .wrapper {
     max-width: 900px;
