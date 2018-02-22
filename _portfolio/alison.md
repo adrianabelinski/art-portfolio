@@ -10,7 +10,7 @@ Page under construction
 
 Antisocial Alison is a sticker pack that I illustrated, depicting the comedic facial expressions of a stereotypical American teen. With the help of an iOS and web developer, we put our sticker pack on the App Store and created <a href="https://antisocialalison.com">antisocialalison.com.</a>
 
-![brochure1]({{ "/assets/images/alison.jpg" | relative_url }}){:class="full-width"}
+![brochure1]({{ "/assets/images/alison.png" | relative_url }}){:class="full-width"}
 <br><br><br>
 ![alsion_screenshot_for_sticker]({{ "/assets/images/screenshotforsticker.png" | relative_url }}){:class="full-width"}
 
