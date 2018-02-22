@@ -2,7 +2,7 @@
 title: Antisocial Alison
 thumbnail: alisonthumbnail.jpg
 thumbnail-hover: alisonthumbnail2.jpg
-order: 6
+order: 5
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}

@@ -2,7 +2,7 @@
 title: Hora Website
 thumbnail: horathumbnail.jpg
 thumbnail-hover: horathumbnail2.jpg
-order: 5
+order: 4
 layout: portfolio-item
 
 ---
