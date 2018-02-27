@@ -36,10 +36,12 @@ img.rounded {
 }
 
 .site-title, .site-nav {
-  line-height: $base-line-height * $base-font-size * 4;
+    color: #705fed !important;
+    line-height: $base-line-height * $base-font-size * 4;
 }
 
 .site-title {
+    letter-spacing: 3px !important;
   img {
     height: 60px;
     padding: 0px 10px 5px 0px;
