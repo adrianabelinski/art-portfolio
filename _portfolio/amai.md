@@ -34,6 +34,22 @@ The packets and the bracelet fit snugly in the Amai Surprise box, which has a cl
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai6.jpg" | relative_url }}){:class="full-width"}
 The final box contains three fruit packets, one bracelet, and three cards. (Everything is cushioned by glittering filler)
+
+<br><br><br><br>
+<h1>Company Logo and Product Logotype</h1>
+![Adriana Belinski]({{ "/assets/images/amai7.jpg" | relative_url }}){:class="full-width"}
+Niji means rainbow in Japanese and Amai means sweet.
+<br><br><br><br>
+<h1>Moodboard</h1>
+![Adriana Belinski]({{ "/assets/images/amai8.jpg" | relative_url }}){:class="full-width"}
+<br><br><br><br>
+<h1>Brandboard</h1>
+![Adriana Belinski]({{ "/assets/images/amai9.jpg" | relative_url }}){:class="full-width"}
+<br><br><br>
+<h1>Concept Sketch</h1>
+![Adriana Belinski]({{ "/assets/images/amaisketches.jpg" | relative_url }}){:class="full-width"}
+This is Rose's initial character design along with the company logo and a gift basket idea instead of the final box solution.
+
 <!--
 <br><br><br><br>
 ![Adriana Belinski]({{ "/assets/images/amai7.jpg" | relative_url }}){:class="full-width"}

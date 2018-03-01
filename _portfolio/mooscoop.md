@@ -9,7 +9,7 @@ layout: portfolio-item
 
 Mooscoop is a brand of organic kid's yogurt that I created for my Identity and Symbols class. Most kid's yogurt packaging uses over-the-top and outdated motifs like surfing cows or animals with sunglasses. Even organic yogurt brands like Lifeway's Probug yogurt pouches use illustrations of crazy-eyed, neon-colored bugs that can be very off-putting for adults who will likely associate the design with excessive sugar and dangerous chemicals.
 
-In branding Mooscoop, I chose a bright color scheme that still suggests fruit but I used it in a way that would not suggest overly sugary or chemical-ridden. I did this by including recycled paper textures to the business cards and process book and by balancing areas of white space with color to suggest the smaller ratio of fruit to milk in the actual product.
+In branding Mooscoop, I chose a bright color scheme that still suggests fruit but I used it in a way that would not suggest overly sugary or chemical-ridden. I did this by including recycled paper textures in the business cards and process book and by balancing areas of white space with color to suggest the smaller ratio of fruit to milk in the actual product.
 
 
 
@@ -55,21 +55,6 @@ The back of the business letter contains all the colors of my brand in a bright 
 ![mooscooplandingpage1]({{ "/assets/images/mooscooplogotypefinal.jpg" | relative_url }}){:class="full-width"}
 <br><br><br><br>
 
-<!--
-
-<h1>Mooscoop Logotype Ideation</h1>
-![mooscooplogotypes]({{ "/assets/images/mooscooplogotypes.jpg" | relative_url }}){:class="full-width"}
-<br><br><br><br>
-<h1>Mooscoop Logo Ideation</h1>
-![mooscooplogos]({{ "/assets/images/mooscooplogos.jpg" | relative_url }}){:class="full-width"}
-<br><br><br><br>
-<h1>Mooscoop Final Three Logos and Logotypes</h1>
-![mooscoopfinallogos]({{ "/assets/images/mooscoopfinallogos.jpg" | relative_url }}){:class="full-width"}
-<br><br><br><br>
-![mooscooplogotypefinal]({{ "/assets/images/mooscooplogotypefinal.jpg" | relative_url }}){:class="full-width"}
-<br>
-
--->
 
 <!--<h1>Business Set Rough Drafts</h1>
 ![mooscoopdraft1]({{ "/assets/images/mooscoopdraft1.jpg" | relative_url }}){:class="full-width"}
