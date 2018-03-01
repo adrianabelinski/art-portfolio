@@ -25,6 +25,14 @@ These are all of the stickers included in the sticker pack.
   ![alisonstickers3]({{ "/assets/images/alisonstickers3.png" | relative_url }})
 </div>
 
+<br><br><br>
+<div class="alison-screenshots-container">
+<h1>Photos</h1>
+![alisonsphoto1]({{ "/assets/images/fbpic.png" | relative_url }})
+![alisonsphoto2]({{ "/assets/images/me.png" | relative_url }})
+</div>
+ Two Photos I took that I used to advertise the sticker pack to my friends on facebook and twitter.
+
 
 <br><br><br>
 <h1>Alison Sticker Sketches</h1>
