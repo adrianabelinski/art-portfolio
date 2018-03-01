@@ -31,11 +31,21 @@ I created a pamphlet featuring all of the creatures from the Nuremburg Chronicle
 This photo displays all four parts of the 4-pack: the box, the bottle designs and the pamphlet.
 <br><br>
 ![Adriana Belinski]({{ "/assets/images/edel7.jpg" | relative_url }}){:class="centered" style="width: 60%"}
-<br><br><br><br>
+<br><br><br>
+<h1>Two dimensional layout of box and labels</h1>
 ![Adriana Belinski]({{ "/assets/images/edel9.jpg" | relative_url }}){:class="full-width"}
-<br><br><br><br>
+<br><br><br>
+<h1>Moodboard</h1>
+![Adriana Belinski]({{ "/assets/images/edel2.jpg" | relative_url }}){:class="full-width"}
+<br><br><br>
+<h1>Brandboard</h1>
+![Adriana Belinski]({{ "/assets/images/edel.jpg" | relative_url }}){:class="full-width"}
+<br><br><br>
+<h1>Bottle Design Ideation</h1>
+![Adriana Belinski]({{ "/assets/images/edel3.jpg" | relative_url }}){:class="full-width"}
+<br><br><br>
 
-
+<h1>Video of bottle and laser cutting</h1>
 <div class="video-container" id="spin-video">
   <video autoplay loop muted>
     <source src="{{"/assets/videos/spin.mp4" | relative_url }}" type="video/mp4">
