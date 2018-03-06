@@ -8,7 +8,7 @@ layout: portfolio-item
 ---
 
 
-The goal of this project was to combine type and image to create a hand made book on Mark Twain's short story: The Celebrated Jumping Frog of Calaveras County.
+The goal of this project was to successfully combine text and image to create a hand-made book on Mark Twain's short story: The Celebrated Jumping Frog of Calaveras County.
 
 ![Adriana Belinski]({{ "/assets/images/jumpingprocessv2.jpg" | relative_url }}){:class="full-width"}
 <br>
@@ -26,9 +26,12 @@ In the inside of the book, I chose a soft, fabric-like material to add interest 
 <h1>Inside Pages</h1>
 ![Adriana Belinski]({{ "/assets/images/jumpingbooktext.jpg" | relative_url }}){:class="full-width"}
 <br>
+Pages inside the book contains drawings before of after paragraphs of text, or the drawings are sectioned off on entirely different pages.
 ![Adriana Belinski]({{ "/assets/images/jumpingprocessinsidetext2.jpg" | relative_url }}){:class="full-width"}
 <br>
 
 <h1>Close-ups</h1>
 
 ![Adriana Belinski]({{ "/assets/images/jumpingfrogcloseups.jpg" | relative_url }}){:class="full-width"}
+
+<br>
