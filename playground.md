@@ -6,8 +6,6 @@ permalink: /playground/
 
 Random drawings that I illustrated
 <br><br>
-![Adriana Belinski]({{ "/assets/images/Playground1.png" | relative_url }}){:class="full-width"}
-<br><br>
 ![Adriana Belinski]({{ "/assets/images/Playground2.png" | relative_url }}){:class="full-width"}
 <br><br>
 ![Adriana Belinski]({{ "/assets/images/Playground3.png" | relative_url }}){:class="full-width"}
