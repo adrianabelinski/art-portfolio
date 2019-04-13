@@ -11,7 +11,7 @@ Antisocial Alison is a sticker pack that I illustrated, depicting the comedic fa
 
 ![brochure1]({{ "/assets/images/alison.png" | relative_url }}){:class="full-width"}
 <br><br><br>
-This image below is an example of how the stickers can be used. <br>
+The image below is an example of how the stickers can be used. <br>
 <div class="alison-screenshots-container">
   ![alsion_screenshot_for_sticker]({{ "/assets/images/screenshotforsticker.png" | relative_url }})
   ![screenshot_for_sticker_2]({{ "/assets/images/screenshotforsticker2.png" | relative_url }})
