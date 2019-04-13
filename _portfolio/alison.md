@@ -37,5 +37,5 @@ These are all of the stickers included in the sticker pack.
 <br><br><br>
 <h1>Alison Sticker Sketches</h1>
 ![alisonstickers4]({{ "/assets/images/alisonsketches.jpg" | relative_url }})
-My ideation sketching style changes every time I draw: sometimes, I draw my idea out in pen, if I need work on the anatomy I sketch with pencil and sometimes I just draw stick figures with the facial expressions I want and then flesh out the character in Illustrator.
+My sketching style changes every time I draw: sometimes, I draw my idea out in pen, if I need work on the anatomy I sketch with pencil and sometimes I just draw stick figures with the facial expressions I want and then flesh out the character in Illustrator.
 <br>
