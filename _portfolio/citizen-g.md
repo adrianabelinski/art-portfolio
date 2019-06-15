@@ -1,6 +1,6 @@
 ---
 title: Citizen G
-thumbnail: CG THUMBNAIL.png
+thumbnail: CG-THUMBNAIL.JPG
 thumbnail-hover: "CG-THUMBNAIL2.png"
 order: 1
 layout: portfolio-item
@@ -19,7 +19,7 @@ Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Cit
 
 <br><br><br>
 <h1>LOGOMARKS</h1><br><br><br>
-![CitizenG]({{ "/assets/images/CG PALETTES.gif" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG-PALETTES.gif" | relative_url }}){:class="full-width"}
 
 
 
