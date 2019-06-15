@@ -1,7 +1,7 @@
 ---
 title: Antisocial Alison
 thumbnail: divvy.jpg
-thumbnail-hover: divvy.jpg
+thumbnail-hover: coming-soon.jpg
 order: 3
 layout: portfolio-item
 ---

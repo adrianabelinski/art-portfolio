@@ -1,6 +1,6 @@
 ---
 title: Citizen G
-thumbnail: citizen-g.jpg
+thumbnail: CG THUMBNAIL.png
 thumbnail-hover: coming-soon.jpg
 order: 1
 layout: portfolio-item
@@ -45,5 +45,4 @@ layout: portfolio-item
 ![CitizenG5]({{ "/assets/images/5.jpg" | relative_url }})
 ![CitizenG6]({{ "/assets/images/6.gif" | relative_url }})
 </div>
- Two Photos I took that I used to advertise the sticker pack to my friends on facebook and twitter.
 
