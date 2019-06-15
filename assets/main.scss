@@ -6,10 +6,6 @@
 $content-width:    100% !default;
 
 
-@media (max-width: 50%) {
-    /* CSS goes here */
-}
-
 @import "minima";
 
 body {
@@ -41,7 +37,7 @@ img.rounded {
   border-bottom: 0px;
 }
 
-.site-title, .site-nav {
+.site-title, .site-title-mobile, .site-nav {
     color: #0a2342 !important;
     line-height: $base-line-height * $base-font-size * 4;
 }
@@ -51,6 +47,16 @@ img.rounded {
   img {
     height: 60px;
     padding: 0px 10px 5px 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .site-title {
+    font-size: 18px;
+    img {
+      height: 40px;
+      padding: 0px 5px 5px 0px;
+    }
   }
 }
 
