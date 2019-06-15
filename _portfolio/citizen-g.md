@@ -34,25 +34,20 @@ Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Cit
 <br><br><br>
 
 <h1>EMAIL BLASTS</h1>
-
 <div class="Citizen-G-container2">
-![CitizenG]({{ "/assets/images/CG EMAIL V2 1.gif" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG EMAIL V2 2.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG EMAIL V2 3.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG EMAIL V2 4.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG EMAIL V2 5.png" | relative_url }}){:class="full-width"}
-</div>
-
-<div class="Citizen-G-container2">
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 1.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 2.gif" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 3.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG EMAIL V2 2.png" | relative_url 
+}}){:class="full-width"}
+![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 4.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 5.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 6.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 7.png" | relative_url }}){:class="full-width"}
 
 </div>
+
 
 <br><br><br>
 
