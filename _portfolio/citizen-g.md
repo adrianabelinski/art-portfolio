@@ -6,43 +6,50 @@ order: 1
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}
-<center>Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Citizen G's branding, packaging, and I ran their social media and helped design their ifundwomen page. </center>
+
+<div style="text-align: center;">
+<div style="text-align: center; max-width: 500px; margin: 0 auto;">
+Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Citizen G's branding, packaging, and I ran their social media and helped design their ifundwomen page.
+</div>
+</div>
 
 <br><br><br>
 <h1>WORDMARK</h1><br><br><br>
 ![CitizenG]({{ "/assets/images/CG HEADER V2.gif" | relative_url }}){:class="full-width"}
 
 <br><br><br>
-<h1>LOGOMARKS</h1>
+<h1>LOGOMARKS</h1><br><br><br>
 ![CitizenG]({{ "/assets/images/CG PALETTES.gif" | relative_url }}){:class="full-width"}
-<br><br><br>
-
-<h1>80s POP</h1>
-
-![CitizenG]({{ "/assets/images/80s pop.png" | relative_url }}){:class="full-width"}
-
-<br>
-
-<h1>NEON LIGHTS</h1>
-
-![CitizenG]({{ "/assets/images/neon lights.png" | relative_url }}){:class="full-width"}
-
-<br>
-
-<h1>STREET ART</h1>
-
-![CitizenG]({{ "/assets/images/streetart.png" | relative_url }}){:class="full-width"}
 
 
 
 <br><br><br>
-<div class="Citizen-G-container">
 <h1>INSTAGRAM</h1>
-![CitizenG1]({{ "/assets/images/1.gif" | relative_url }})
-![CitizenG2]({{ "/assets/images/2.jpg" | relative_url }})
-![CitizenG3]({{ "/assets/images/3.gif" | relative_url }})
-![CitizenG4]({{ "/assets/images/4.jpg" | relative_url }})
-![CitizenG5]({{ "/assets/images/5.jpg" | relative_url }})
-![CitizenG6]({{ "/assets/images/6.gif" | relative_url }})
+<div class="Citizen-G-container">
+![CitizenG1]({{ "/assets/images/1.gif" | relative_url }})![CitizenG2]({{ "/assets/images/2.jpg" | relative_url }})![CitizenG3]({{ "/assets/images/3.gif" | relative_url }})![CitizenG4]({{ "/assets/images/4.jpg" | relative_url }})![CitizenG5]({{ "/assets/images/5.jpg" | relative_url }})![CitizenG6]({{ "/assets/images/6.gif" | relative_url }})
 </div>
 
+
+
+<br><br><br>
+
+<h1>EMAIL BLASTS</h1><br>
+
+<div class="CitizenG-container2">
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 1.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 2.gif" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 3.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 4.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 5.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 6.png" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 7.png" | relative_url }}){:class="full-width"}
+
+</div>
+
+<div class="CitizenG-container2">
+![CitizenG]({{ "/assets/images/CG EMAIL V2 1.GIF" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG EMAIL V2 2.PNG" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG EMAIL V2 3.PNG" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG EMAIL V2 4.PNG" | relative_url }}){:class="full-width"}
+![CitizenG]({{ "/assets/images/CG EMAIL V2 5.PNG" | relative_url }}){:class="full-width"}
+</div>
