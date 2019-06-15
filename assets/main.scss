@@ -5,6 +5,11 @@
 // Overriding variable declared in "minima". For some reason in SCSS, the first declaration of variables overrides successive declarations.
 $content-width:    100% !default;
 
+
+@media (max-width: 50%) {
+    /* CSS goes here */
+}
+
 @import "minima";
 
 body {
