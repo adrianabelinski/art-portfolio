@@ -31,7 +31,7 @@ Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Cit
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <h1>EMAIL BLASTS</h1>
 
@@ -67,9 +67,15 @@ Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Cit
 
 <h1>IFUND WOMEN VIDEO</h1>
 
-<video class="full-width" id="CGVIDEO" controls>
+<video class="full-width" id="CGVIDEO" poster="/assets/images/CG BANNER.JPG" controls>
   <source src="assets/videos/CG IFUNDWOMEN.mp4" type="video/mp4">
 </video>
 <script>
     document.getElementById('CGVIDEO').play();
 </script>
+<br>
+<div style="text-align: center;">
+<div style="text-align: center; max-width: 500px; margin: 0 auto;">
+Video created by another team of producers using my branding and illustration assets.
+</div>
+</div>
