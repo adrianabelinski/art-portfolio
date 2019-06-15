@@ -9,6 +9,7 @@ $content-width:    100% !default;
 
 body {
   background: #f8f8f8;
+  color: #26282b;
 }
 
 * {
@@ -36,12 +37,12 @@ img.rounded {
 }
 
 .site-title, .site-nav {
-    color: #705fed !important;
+    color: #0a2342 !important;
     line-height: $base-line-height * $base-font-size * 4;
 }
 
 .site-title {
-    letter-spacing: 3px !important;
+  letter-spacing: 1px !important;
   img {
     height: 60px;
     padding: 0px 10px 5px 0px;
@@ -134,4 +135,8 @@ img.rounded {
   width: 48.5%;
   padding: 0.3%;
   }
+}
+
+h1, h2, h3, h4, h5, .site-header {
+  font-family: 'Comfortaa', 'Helvetica', 'Arial';
 }
