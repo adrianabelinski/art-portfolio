@@ -9,6 +9,7 @@ $content-width:    100% !default;
 
 body {
   background: #f8f8f8;
+  color: #26282b;
 }
 
 * {
@@ -36,7 +37,7 @@ img.rounded {
 }
 
 .site-title, .site-nav {
-    color: #705fed !important;
+    color: #0a2342 !important;
     line-height: $base-line-height * $base-font-size * 4;
 }
 
@@ -137,5 +138,5 @@ img.rounded {
 }
 
 h1, h2, h3, h4, h5, .site-header {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', 'Helvetica', 'Arial';
 }
