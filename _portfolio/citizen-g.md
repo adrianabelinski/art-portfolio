@@ -1,7 +1,7 @@
 ---
 title: Citizen G
 thumbnail: CG THUMBNAIL.png
-thumbnail-hover: coming-soon.jpg
+thumbnail-hover: CG THUMBNAIL2.png
 order: 1
 layout: portfolio-item
 ---
