@@ -1,6 +1,6 @@
 ---
 title: Citizen G
-thumbnail: CG-THUMBNAIL.JPG
+thumbnail: CG-THUMBNAIL.jpg
 thumbnail-hover: "CG-THUMBNAIL2.png"
 order: 1
 layout: portfolio-item
