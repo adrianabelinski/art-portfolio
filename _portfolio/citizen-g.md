@@ -2,32 +2,37 @@
 title: Citizen G
 thumbnail: citizen-g.jpg
 thumbnail-hover: coming-soon.jpg
-order: 7
+order: 1
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}
+<center>Clean, teens makeup. </center>
+
+<h1>80s POP</h1>
+
+![brochure1]({{ "/assets/images/80s pop.png" | relative_url }}){:class="full-width"}
+
+<br>
+
+<h1>NEON LIGHTS</h1>
+
+![brochure1]({{ "/assets/images/neon lights.png" | relative_url }}){:class="full-width"}
+
+<br>
+
+<h1>Street Art</h1>
+
+![brochure1]({{ "/assets/images/streetart.png" | relative_url }}){:class="full-width"}
+
+<br><br><br><br>
+<h1>Wordmark</h1>
+
+![brochure1]({{ "/assets/images/wordmark.gif" | relative_url }}){:class="full-width"}
+<br><br><br><br>
 
 
-<!--
 
 
-Antisocial Alison is a sticker pack that I illustrated, depicting the comedic facial expressions of a stereotypical American teen. With the help of an iOS and web developer, we put our sticker pack on the App Store and created <a href="https://antisocialalison.com">antisocialalison.com.</a>
-
-![brochure1]({{ "/assets/images/alison.png" | relative_url }}){:class="full-width"}
-<br><br><br>
-The image below is an example of how the stickers can be used. <br>
-<div class="alison-screenshots-container">
-  ![alsion_screenshot_for_sticker]({{ "/assets/images/screenshotforsticker.png" | relative_url }})
-  ![screenshot_for_sticker_2]({{ "/assets/images/screenshotforsticker2.png" | relative_url }})
-</div>
-<br><br><br>
-
-These are all of the stickers included in the sticker pack.
-<div class="alison-screenshots-container2">
-  ![alisonstickers1]({{ "/assets/images/alisonstickers1.png" | relative_url }})
-  ![alisonstickers2]({{ "/assets/images/alisonstickers2.png" | relative_url }})
-  ![alisonstickers3]({{ "/assets/images/alisonstickers3.png" | relative_url }})
-</div>
 
 <br><br><br>
 <div class="alison-screenshots-container">
@@ -37,12 +42,3 @@ These are all of the stickers included in the sticker pack.
 </div>
  Two Photos I took that I used to advertise the sticker pack to my friends on facebook and twitter.
 
-
-<br><br><br>
-<h1>Alison Sticker Sketches</h1>
-![alisonstickers4]({{ "/assets/images/alisonsketch.jpg" | relative_url }})
-My ideation sketching style changes every time I draw: sometimes, I draw my idea out in pen, if I need work on the anatomy I sketch with pencil and sometimes I just draw stick figures with the facial expressions I want and then flesh out the character in Illustrator.
-<br>
-
-
--->

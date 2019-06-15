@@ -1,8 +1,8 @@
 ---
 title: Antisocial Alison
-thumbnail: alisonthumbnail.jpg
-thumbnail-hover: alisonthumbnail2.jpg
-order: 7
+thumbnail: divvy.jpg
+thumbnail-hover: divvy.jpg
+order: 3
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}

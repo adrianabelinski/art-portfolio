@@ -2,7 +2,7 @@
 title: Amai Surprise
 thumbnail: amaithumbnail.jpg
 thumbnail-hover: amaithumbnail2.jpg
-order: 1
+order: 5
 layout: portfolio-item
 ---
 

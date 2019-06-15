@@ -2,7 +2,7 @@
 title: Campbell Wellman
 thumbnail: cw.jpg
 thumbnail-hover: coming-soon.jpg
-order: 10
+order: 4
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}

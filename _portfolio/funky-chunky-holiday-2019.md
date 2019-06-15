@@ -1,11 +1,16 @@
 ---
-title: Antisocial Alison
-thumbnail: alisonthumbnail.jpg
-thumbnail-hover: alisonthumbnail2.jpg
-order: 7
+title: Funky Chunky Holiday 2018 Case Study
+thumbnail: fccasestudy.jpg
+thumbnail-hover: coming-soon.jpg
+order: 2
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}
+
+
+<!--
+
+
 
 Antisocial Alison is a sticker pack that I illustrated, depicting the comedic facial expressions of a stereotypical American teen. With the help of an iOS and web developer, we put our sticker pack on the App Store and created <a href="https://antisocialalison.com">antisocialalison.com.</a>
 
@@ -36,5 +41,10 @@ These are all of the stickers included in the sticker pack.
 
 <br><br><br>
 <h1>Alison Sticker Sketches</h1>
-![alisonstickers4]({{ "/assets/images/alisonsketch.jpg" | relative_url }})
+![alisonstickers4]({{ "/assets/images/alisonsketches.jpg" | relative_url }})
+My ideation sketching style changes every time I draw: sometimes, I draw my idea out in pen, if I need work on the anatomy I sketch with pencil and sometimes I just draw stick figures with the facial expressions I want and then flesh out the character in Illustrator.
 <br>
+
+
+
+-->

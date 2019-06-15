@@ -2,7 +2,7 @@
 title: Edel
 thumbnail: edelthumbnail.jpg
 thumbnail-hover: edelthumbnail2.jpg
-order: 2
+order: 7
 layout: portfolio-item
 ---
 
