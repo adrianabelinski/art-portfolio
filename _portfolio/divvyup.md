@@ -9,7 +9,7 @@ layout: portfolio-item
 
 <div style="text-align: center;">
 <div style="text-align: center; max-width: 500px; margin: 0 auto;">
-(Divvy up description)
+(Description)
 </div>
 </div>
 
