@@ -2,7 +2,7 @@
 title: Campbell Wellman
 thumbnail: CWTHUMBNAIL.png
 thumbnail-hover: CWTHUMBNAIL.jpg
-order: 4
+order: 3
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}

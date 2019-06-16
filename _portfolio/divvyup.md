@@ -2,14 +2,14 @@
 title: DIVVYUP
 thumbnail: DIVVYUP.png
 thumbnail-hover: DIVVYUP2.png
-order: 3
+order: 4
 layout: portfolio-item
 ---
 {::options parse_block_html="true" /}
 
 <div style="text-align: center;">
 <div style="text-align: center; max-width: 500px; margin: 0 auto;">
-(Description)
+Unlike conventional tools, the DivvyUp's prong is three inchs long and not connected at the waist. It can only go in and forward, fixing the ball mark unlike other tools that tear the roots out of the soil. It's the only tool designed to work one way-the correct way.
 </div>
 </div>
 
@@ -35,15 +35,15 @@ layout: portfolio-item
 <h1>LETTERHEADS</h1>
 <br>
 <div class="DULETTERHEAD1">
-![DU]({{ "/assets/images/DULETTERHEADS1-01.png" | relative_url
-}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS1-02.png" | relative_url}}){:class="full-width"}
+![DU]({{ "/assets/images/DULETTERHEADS-01.png" | relative_url
+}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS-02.png" | relative_url}}){:class="full-width"}
 </div>
 
 <br>
 
 <div class="DULETTERHEAD2">
-![DU]({{ "/assets/images/DULETTERHEADS2-01.png" | relative_url
-}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS2-02.png" | relative_url}}){:class="full-width"}
+![DU]({{ "/assets/images/DULETTERHEADS-03.png" | relative_url
+}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS-04.png" | relative_url}}){:class="full-width"}
 </div>
 
 
