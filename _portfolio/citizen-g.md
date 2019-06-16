@@ -45,7 +45,6 @@ Citizen G is an awesome, clean, inclusive makeup brand for teens. I designed Cit
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 5.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 6.png" | relative_url }}){:class="full-width"}
 ![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 7.png" | relative_url }}){:class="full-width"}
-
 </div>
 
 
