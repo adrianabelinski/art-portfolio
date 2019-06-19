@@ -11,7 +11,7 @@ layout: portfolio-item
 <div style="text-align: center; max-width: 500px; margin: 0 auto;">
  When besties grow up to have daughters at the same time and those daughters start wearing makeup and the makeup options are scary and full of toxins--you build a revolutionary makeup for conscious teens. That's just what LA-based Citizen G did.
 
-I was brought in to the process to design the packaging and branding for their first launch of clean cosmetics for the teen set. Working with manufacturers I built if from the component and packaging to their brand feel to the Citizen G social media strategy, launch and life.
+I was brought into the process to design the packaging and branding for their first launch of clean cosmetics. I helped design the component and packaging to their brand feel to the Citizen G social media strategy, launch, and life.
 </div>
 </div>
 
