@@ -10,6 +10,8 @@ layout: portfolio-item
 <div style="text-align: center;">
 <div style="text-align: center; max-width: 500px; margin: 0 auto;">
 Unlike conventional tools, the DivvyUp's prong is three inchs long and not connected at the waist. It can only go in and forward, fixing the ball mark unlike other tools that tear the roots out of the soil. It's the only tool designed to work one way-the correct way.
+<br><br>
+This is currently an on-going branding project.
 </div>
 </div>
 
@@ -18,16 +20,16 @@ Unlike conventional tools, the DivvyUp's prong is three inchs long and not conne
 
 
 <div class="DULOGOS">
-![CitizenG]({{ "/assets/images/DULOGO1.png" | relative_url }}){:class="full-width"}
+![DUG]({{ "/assets/images/DULOGO1.png" | relative_url }}){:class="full-width"}
 </div>
 
 <div class="DULOGOS2">
 <br><br><br>
-![CitizenG]({{ "/assets/images/DULOGO2.png" | relative_url
+![DUG]({{ "/assets/images/DULOGO2.png" | relative_url
 }}){:class="full-width"}
 
 <br><br><br>
-![CitizenG]({{ "/assets/images/DULOGO3.png" | relative_url
+![DUG]({{ "/assets/images/DULOGO3.png" | relative_url
 }}){:class="full-width"}
 </div>
 
@@ -35,15 +37,15 @@ Unlike conventional tools, the DivvyUp's prong is three inchs long and not conne
 <h1>LETTERHEADS</h1>
 <br>
 <div class="DULETTERHEAD1">
-![DU]({{ "/assets/images/DULETTERHEADS-01.png" | relative_url
-}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS-02.png" | relative_url}}){:class="full-width"}
+![DUG]({{ "/assets/images/DULETTERHEADS-01.png" | relative_url
+}}){:class="full-width"}![DUG]({{ "/assets/images/DULETTERHEADS-02.png" | relative_url}}){:class="full-width"}
 </div>
 
 <br>
 
 <div class="DULETTERHEAD2">
-![DU]({{ "/assets/images/DULETTERHEADS-03.png" | relative_url
-}}){:class="full-width"}![DU]({{ "/assets/images/DULETTERHEADS-04.png" | relative_url}}){:class="full-width"}
+![DUG]({{ "/assets/images/DULETTERHEADS-03.png" | relative_url
+}}){:class="full-width"}![DUG]({{ "/assets/images/DULETTERHEADS-04.png" | relative_url}}){:class="full-width"}
 </div>
 
 

@@ -48,8 +48,8 @@ Campbell Wellman Properties was born out of an idea to provide more of a detaile
 <br><br><br>
 <h1>TWO-PAGE BIG LOT FLIER</h1>
 <div class="BIGLOT">
-![CitizenG]({{ "/assets/images/BIGLOT-01.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/BIGLOT-02.png" | relative_url }}){:class="full-width"}
+![CW]({{ "/assets/images/BIGLOT-01.png" | relative_url }}){:class="full-width"}
+![CW]({{ "/assets/images/BIGLOT-02.png" | relative_url }}){:class="full-width"}
 </div>
 
 

@@ -17,6 +17,18 @@ body {
   box-sizing: border-box;
 }
 
+
+a:hover {
+  color: #f980ff;
+  text-decoration: none;
+}
+
+
+a {
+  color: #47bfe3;
+  text-decoration: none;
+}
+
 .centered {
   display: block;
   margin: auto;
