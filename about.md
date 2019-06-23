@@ -10,9 +10,9 @@ Yo, I’m Adriana. I'm a graphic designer in Minneapolis, and I specialize in cr
 <br><br>
 <h2>FUN FACTS</h2>
 
-•  I love Japanese pop culture; the bright colors and anime aesthetics captivates and inspires me.
+•  I love Japanese pop culture; the bright colors and anime aesthetics captivates me.
 <br><br>
-•  Music is a big influencer in my creative process. I imagine colors, patterns and stories while listening which I, in turn, make into art.
+•  Music is a big influencer in my creative process. I imagine colors, patterns and stories while listening which I make into art.
 <br>
 <br>
 •  I like throwing themed tea parties. 
