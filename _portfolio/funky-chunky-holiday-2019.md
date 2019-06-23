@@ -44,6 +44,7 @@ featured a number of unique, neon-themed email newsletter layouts + content, cre
 ![FC]({{ "/assets/images/parade1.gif" | relative_url }})
 </div>
 <div class="PARADE2">
+![FC]({{ "/assets/images/parade2.gif" | relative_url }})
 ![FC]({{ "/assets/images/parade3.jpg" | relative_url }})
 </div>
 
