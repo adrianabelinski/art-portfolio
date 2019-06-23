@@ -1,6 +1,6 @@
 ---
 title: DIVVYUP
-thumbnail: DIVVYUP.png
+thumbnail: DIVVYUP.jpg
 thumbnail-hover: DIVVYUP2.png
 order: 4
 layout: portfolio-item
