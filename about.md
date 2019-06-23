@@ -6,8 +6,7 @@ permalink: /about/
 
 ![Adriana Belinski]({{ "/assets/images/ME2.jpg" | relative_url }}){:class="rounded centered" width="250px"}
 <br>
-Yo!<br>
-I’m a graphic designer in Minneapolis, and I specialize in creating identities and branding. I’m part of the creative team at Avenue C, where I create logos, ads, newsletters, product packaging and a lot of other great stuff. [Contact me](mailto:adrianab@protonmail.com) if you'd like to work together!
+Yo, I’m Adriana. I'm a graphic designer in Minneapolis, and I specialize in creating identities and branding. I’m part of the creative team at Avenue C, where I create logos, ads, newsletters, product packaging and a lot of other great stuff. [Contact me](mailto:adrianab@protonmail.com) if you'd like to work together!
 <br><br>
 <h2>FUN FACTS</h2>
 
