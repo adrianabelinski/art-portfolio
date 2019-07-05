@@ -8,10 +8,6 @@ layout: portfolio-item
 
 In this project, I rebranded Izze's sparkling apple drink to fit a new target audience: young adults who don't drink alcohol but still want feel upperclass. The idea behind the design was to connect apples with its symbolic roots so I created a design which communicated divinity through its use of gold and white colors, Alphonse Mucha-like decorative swirls, and references to 15th century calligraphy.
 
-
-
-<!--[Adriana Belinski](/assets/images/edel8.jpg){:class="full-width"}-->
-
 ![Adriana Belinski](/assets/images/edel4.jpg){:class="full-width"}
 
 In the front of the bottle, I laser cut a white label and at the back of each bottle is an image of houses tumbling and breaking into each other which plays on the idea of distortion usually caused by alcoholic drinks.
@@ -63,13 +59,3 @@ This photo displays all four parts of the 4-pack: the box, the bottle designs an
       document.getElementById('laser-video').play();
   </script>
 </div>
-
-
-<!--
-<br><br><br><br>
-![Adriana Belinski](/assets/images/edel.jpg){:class="full-width"}
-<br><br><br><br>
-![Adriana Belinski](/assets/images/edel2.jpg){:class="full-width"}
-<br><br><br><br>
-![Adriana Belinski](/assets/images/edel3.jpg){:class="full-width"}
--->

@@ -54,14 +54,3 @@ The back of the business letter contains all the colors of my brand in a bright 
 <h1>Final Three Logotypes</h1>
 ![mooscooplandingpage1](/assets/images/mooscooplogotypefinal.jpg){:class="full-width"}
 <br><br><br><br>
-
-
-<!--<h1>Business Set Rough Drafts</h1>
-![mooscoopdraft1](/assets/images/mooscoopdraft1.jpg){:class="full-width"}
-In this draft, I combined three bright colors in a playful, dripping effect to reflect the yogurt the brand would sell.
-<br>
-![mooscoopdraft2](/assets/images/mooscoopdraft2.jpg){:class="full-width"}
-This design focuses on a mature look with its monochromatic color scheme. The design wasn't chosen because its didn't communicate the dairy aspect of the brand.
-<br>
-![mooscoopdraft3](/assets/images/mooscoopdraft3.jpg){:class="full-width"}
-This theme focuses on the organic aspect of the brand with its use of earthly colors and "organic" shapes.-->

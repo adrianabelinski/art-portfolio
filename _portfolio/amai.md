@@ -49,12 +49,3 @@ Niji means rainbow in Japanese and Amai means sweet.
 <h1>Concept Sketch</h1>
 ![Adriana Belinski](/assets/images/amaisketches.jpg){:class="full-width"}
 This is Rose's initial character design along with the company logo and a gift basket idea instead of the final box solution.
-
-<!--
-<br><br><br><br>
-![Adriana Belinski](/assets/images/amai7.jpg){:class="full-width"}
-<br><br><br><br>
-![Adriana Belinski](/assets/images/amai8.jpg){:class="full-width"}
-<br><br><br><br>
-![Adriana Belinski](/assets/images/amai9.jpg){:class="full-width"}
--->
