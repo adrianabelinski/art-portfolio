@@ -18,11 +18,11 @@ featured a number of unique, neon-themed email newsletter layouts + content, cre
 <br><br><br>
 <h1>EMAIL. INSTAGRAM. FACEBOOK.</h1>
 <div class="GRINCH1">
-![FC]({{ "/assets/images/grinch1.gif" | relative_url }})
+![FC](/assets/images/grinch1.gif)
 </div>
 <div class="GRINCH2">
-![FC]({{ "/assets/images/grinch2.gif" | relative_url }})
-![FC]({{ "/assets/images/grinch3.jpg" | relative_url }})
+![FC](/assets/images/grinch2.gif)
+![FC](/assets/images/grinch3.jpg)
 </div>
 
 
@@ -30,22 +30,22 @@ featured a number of unique, neon-themed email newsletter layouts + content, cre
 
 <h1>EMAIL. INSTAGRAM. FACEBOOK.</h1>
 <div class="SALTY1">
-![FC]({{ "/assets/images/salty1.gif" | relative_url }})
+![FC](/assets/images/salty1.gif)
 </div>
 <div class="SALTY2">
-![FC]({{ "/assets/images/salty2.gif" | relative_url }})
-![FC]({{ "/assets/images/salty3.jpg" | relative_url }})
+![FC](/assets/images/salty2.gif)
+![FC](/assets/images/salty3.jpg)
 </div>
 
 
 <br><br><br>
 <h1>EMAIL. INSTAGRAM. FACEBOOK.</h1>
 <div class="PARADE1">
-![FC]({{ "/assets/images/parade1.gif" | relative_url }})
+![FC](/assets/images/parade1.gif)
 </div>
 <div class="PARADE2">
-![FC]({{ "/assets/images/parade2.gif" | relative_url }})
-![FC]({{ "/assets/images/parade3.jpg" | relative_url }})
+![FC](/assets/images/parade2.gif)
+![FC](/assets/images/parade3.jpg)
 </div>
 
 
@@ -53,22 +53,22 @@ featured a number of unique, neon-themed email newsletter layouts + content, cre
 <br><br><br>
 <h1>MORE INSTAGRAM</h1>
 <div class="FCINSTAGRAM">
-![FC]({{ "/assets/images/Instagram_12.26.gif" | relative_url }})![FC]({{ "/assets/images/Instagram_12.18.gif" | relative_url }})![FC]({{ "/assets/images/cybermondayvid.gif" | relative_url }})![FC]({{ "/assets/images/TURKEY.gif" | relative_url }})![FC]({{ "/assets/images/smallbizbigwins.gif" | relative_url }})![FC]({{ "/assets/images/Instagramgif.gif" | relative_url }})
+![FC](/assets/images/Instagram_12.26.gif)![FC](/assets/images/Instagram_12.18.gif)![FC](/assets/images/cybermondayvid.gif)![FC](/assets/images/TURKEY.gif)![FC](/assets/images/smallbizbigwins.gif)![FC](/assets/images/Instagramgif.gif)
 </div>
 
 <br><br><br>
 
 <h1>ADS</h1><br>
-![FC]({{ "/assets/images/FCAD1.jpg" | relative_url }}){:class="full-width"}
+![FC](/assets/images/FCAD1.jpg){:class="full-width"}
 <br>
-![FC]({{ "/assets/images/FCAD2.jpg" | relative_url }}){:class="full-width"}
+![FC](/assets/images/FCAD2.jpg){:class="full-width"}
 <br>
-![FC]({{ "/assets/images/FCADS.png" | relative_url }}){:class="full-width"}
+![FC](/assets/images/FCADS.png){:class="full-width"}
 
 
 <br><br><br>
 <h1>2019 SNEEK PEEK</h1>
-![FC]({{ "/assets/images/DOLLS.png" | relative_url }})
+![FC](/assets/images/DOLLS.png)
 
 
 <div style="text-align: center;">

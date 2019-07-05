@@ -20,16 +20,16 @@ This is currently an on-going branding project.
 
 
 <div class="DULOGOS">
-![DUG]({{ "/assets/images/DULOGO1.png" | relative_url }}){:class="full-width"}
+![DUG](/assets/images/DULOGO1.png){:class="full-width"}
 </div>
 
 <div class="DULOGOS2">
 <br><br><br>
-![DUG]({{ "/assets/images/DULOGO2.png" | relative_url
+![DUG](/assets/images/DULOGO2.png" | relative_url
 }}){:class="full-width"}
 
 <br><br><br>
-![DUG]({{ "/assets/images/DULOGO3.png" | relative_url
+![DUG](/assets/images/DULOGO3.png" | relative_url
 }}){:class="full-width"}
 </div>
 
@@ -37,15 +37,15 @@ This is currently an on-going branding project.
 <h1>LETTERHEADS</h1>
 <br>
 <div class="DULETTERHEAD1">
-![DUG]({{ "/assets/images/DULETTERHEADS-01.png" | relative_url
-}}){:class="full-width"}![DUG]({{ "/assets/images/DULETTERHEADS-02.png" | relative_url}}){:class="full-width"}
+![DUG](/assets/images/DULETTERHEADS-01.png" | relative_url
+}}){:class="full-width"}![DUG](/assets/images/DULETTERHEADS-02.png" | relative_url}}){:class="full-width"}
 </div>
 
 <br>
 
 <div class="DULETTERHEAD2">
-![DUG]({{ "/assets/images/DULETTERHEADS-03.png" | relative_url
-}}){:class="full-width"}![DUG]({{ "/assets/images/DULETTERHEADS-04.png" | relative_url}}){:class="full-width"}
+![DUG](/assets/images/DULETTERHEADS-03.png" | relative_url
+}}){:class="full-width"}![DUG](/assets/images/DULETTERHEADS-04.png" | relative_url}}){:class="full-width"}
 </div>
 
 

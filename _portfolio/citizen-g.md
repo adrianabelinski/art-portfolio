@@ -17,18 +17,18 @@ I was brought into the process to design the packaging and branding for their fi
 
 <br><br><br>
 <h1>WORDMARK</h1><br><br><br>
-![CitizenG]({{ "/assets/images/CG HEADER V2.gif" | relative_url }}){:class="full-width"}
+![CitizenG](/assets/images/CG HEADER V2.gif){:class="full-width"}
 
 <br><br><br>
 <h1>LOGOMARKS</h1><br><br><br>
-![CitizenG]({{ "/assets/images/CG-PALETTES.gif" | relative_url }}){:class="full-width"}
+![CitizenG](/assets/images/CG-PALETTES.gif){:class="full-width"}
 
 
 
 <br><br><br>
 <h1>INSTAGRAM</h1>
 <div class="Citizen-G-container">
-![CitizenG1]({{ "/assets/images/1.gif" | relative_url }})![CitizenG2]({{ "/assets/images/2.jpg" | relative_url }})![CitizenG3]({{ "/assets/images/3.gif" | relative_url }})![CitizenG4]({{ "/assets/images/4.jpg" | relative_url }})![CitizenG5]({{ "/assets/images/5.jpg" | relative_url }})![CitizenG6]({{ "/assets/images/6.gif" | relative_url }})
+![CitizenG1](/assets/images/1.gif)![CitizenG2](/assets/images/2.jpg)![CitizenG3](/assets/images/3.gif)![CitizenG4](/assets/images/4.jpg)![CitizenG5](/assets/images/5.jpg)![CitizenG6](/assets/images/6.gif)
 </div>
 
 
@@ -37,16 +37,16 @@ I was brought into the process to design the packaging and branding for their fi
 
 <h1>EMAIL BLASTS</h1>
 <div class="Citizen-G-container2">
-![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 2.gif" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG EMAIL V2 2.png" | relative_url 
+![CitizenG](/assets/images/whitespace.png){:class="full-width"}
+![CitizenG](/assets/images/CG NEWSLETTER PART 2.gif){:class="full-width"}
+![CitizenG](/assets/images/whitespace.png){:class="full-width"}
+![CitizenG](/assets/images/CG EMAIL V2 2.png" | relative_url 
 }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/whitespace.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 4.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 5.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 6.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG NEWSLETTER PART 7.png" | relative_url }}){:class="full-width"}
+![CitizenG](/assets/images/whitespace.png){:class="full-width"}
+![CitizenG](/assets/images/CG NEWSLETTER PART 4.png){:class="full-width"}
+![CitizenG](/assets/images/CG NEWSLETTER PART 5.png){:class="full-width"}
+![CitizenG](/assets/images/CG NEWSLETTER PART 6.png){:class="full-width"}
+![CitizenG](/assets/images/CG NEWSLETTER PART 7.png){:class="full-width"}
 </div>
 
 
@@ -55,8 +55,8 @@ I was brought into the process to design the packaging and branding for their fi
 <h1>PRE-PRODUCTION MOCK-UPS</h1>
 
 <div class="Citizen-G-container3">
-![CitizenG]({{ "/assets/images/CG GLOSS.png" | relative_url }}){:class="full-width"}
-![CitizenG]({{ "/assets/images/CG LUMINIZER.png" | relative_url }}){:class="full-width"}
+![CitizenG](/assets/images/CG GLOSS.png){:class="full-width"}
+![CitizenG](/assets/images/CG LUMINIZER.png){:class="full-width"}
 </div>
 
 <br><br><br>
