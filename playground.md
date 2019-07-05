@@ -4,8 +4,7 @@ title: My Art
 permalink: /playground/
 ---
 
-Random drawings that I illustrated
-<br><br>
+<p>Random drawings that I illustrated.</p>
 
 ![Adriana Belinski]({{ "/assets/images/Untitled_Artwork.jpg" | relative_url }}){:class="full-width"}
 <br><br>
