@@ -44,7 +44,7 @@ This photo displays all four parts of the 4-pack: the box, the bottle designs an
 <h1>Video of bottle and laser cutting</h1>
 <div class="video-container" id="spin-video">
   <video autoplay loop muted>
-    <source src="{{"/assets/videos/spin.mp4" type="video/mp4">
+    <source src="/assets/videos/spin.mp4" type="video/mp4">
   </video>
   <script>
       document.getElementById('spin-video').play();
@@ -53,7 +53,7 @@ This photo displays all four parts of the 4-pack: the box, the bottle designs an
 
 <div class="video-container" id="laser-video">
   <video autoplay loop muted>
-    <source src="{{"/assets/videos/laser-cut.mp4" type="video/mp4">
+    <source src="/assets/videos/laser-cut.mp4" type="video/mp4">
   </video>
   <script>
       document.getElementById('laser-video').play();
