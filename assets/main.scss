@@ -222,6 +222,7 @@ h1, h2, h3, h4, h5, .site-header {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
+  margin-bottom: 20px;
 
   div {
     img {
@@ -231,9 +232,9 @@ h1, h2, h3, h4, h5, .site-header {
   }
 }
 
-.FCINSTAGRAM {
-  img {
-    width: 32%;
-    padding: 0.3%;
-  }
+.funky-chunky-three-column-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin-bottom: 20px;
 }
