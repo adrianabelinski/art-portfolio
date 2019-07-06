@@ -5,12 +5,15 @@
 // Overriding variable declared in "minima". For some reason in SCSS, the first declaration of variables overrides successive declarations.
 $content-width:    100% !default;
 
-
 @import "minima";
 
 body {
   background: #f8f8f8;
   color: #313a44;
+}
+
+h1, h2, h3, h4, h5, .site-header {
+  font-family: 'Comfortaa', 'Helvetica', 'Arial';
 }
 
 * {
@@ -145,10 +148,6 @@ img.rounded {
 
 #laser-video {
   max-width: 515px;
-}
-
-h1, h2, h3, h4, h5, .site-header {
-  font-family: 'Comfortaa', 'Helvetica', 'Arial';
 }
 
 .two-column-grid {
