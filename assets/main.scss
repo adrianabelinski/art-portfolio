@@ -149,25 +149,6 @@ img.rounded {
   max-width: 515px;
 }
 
-.Citizen-G-container {
-  img {
-    width: 32%;
-    padding: 0.3%;
-  }
-}
-
-.Citizen-G-container2 {
-  padding: 10%;
-}
-
-.Citizen-G-container3 {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
 h1, h2, h3, h4, h5, .site-header {
   font-family: 'Comfortaa', 'Helvetica', 'Arial';
 }
@@ -218,7 +199,7 @@ h1, h2, h3, h4, h5, .site-header {
   }
 }
 
-.funky-chunky-two-column-grid {
+.two-column-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
@@ -232,7 +213,7 @@ h1, h2, h3, h4, h5, .site-header {
   }
 }
 
-.funky-chunky-three-column-grid {
+.three-column-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
