@@ -5,7 +5,6 @@
 // Overriding variable declared in "minima". For some reason in SCSS, the first declaration of variables overrides successive declarations.
 $content-width:    100% !default;
 
-
 @import "minima";
 
 body {
@@ -13,16 +12,18 @@ body {
   color: #313a44;
 }
 
+h1, h2, h3, h4, h5, .site-header {
+  font-family: 'Comfortaa', 'Helvetica', 'Arial';
+}
+
 * {
   box-sizing: border-box;
 }
-
 
 a:hover {
   color: #f980ff;
   text-decoration: none;
 }
-
 
 a {
   color: #47bfe3;
@@ -106,6 +107,16 @@ img.rounded {
   }
 }
 
+.portfolio-intro-text-container {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+
+  p {
+    text-align: center;
+  }
+}
+
 .alison-screenshots-container {
   img {
     display: inline-block;
@@ -139,147 +150,23 @@ img.rounded {
   max-width: 515px;
 }
 
-.Citizen-G-container {
-  img {
-    width: 32%;
-    padding: 0.3%;
+.two-column-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  margin-bottom: 20px;
+
+  div {
+    img {
+      width: 100%;
+      margin-bottom: 10px;
+    }
   }
 }
 
-.Citizen-G-container2 {
-  padding: 10%;
-}
-
-.Citizen-G-container3 {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
-h1, h2, h3, h4, h5, .site-header {
-  font-family: 'Comfortaa', 'Helvetica', 'Arial';
-}
-
-
-.DULOGOS {
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-.DULOGOS2 {
-  padding-left: 20%;
-  padding-right: 20%;
-}
-
-
-.DULETTERHEAD1 {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
-.DULETTERHEAD2 {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
-
-.CWBUSINESSCARDS {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
-
-.BIGLOT {
-  img {
-  display: inline-block;
-  width: 48.5%;
-  padding: 0.3%;
-  }
-}
-
-
-
-.GRINCH1 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 100%;
-    margin-bottom: 35%;
-  }
-}
-
-
-.GRINCH2 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 130%;
-    padding: 5%;
-    padding-top: 3%;
-  }
-}
-
-
-.SALTY1 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 85%;
-    margin-bottom: 0%;
-  }
-}
-
-.SALTY2 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 170%;
-    padding: 5%;
-  }
-}
-
-
-.PARADE1 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 95%;
-    margin-bottom: 0%;
-  }
-}
-
-.PARADE2 {
-  display: inline-block;
-  width: 48.5%;
-  img {
-    width: 170%;
-    padding: 5%;
-  }
-}
-
-
-.FCINSTAGRAM {
-  img {
-    width: 32%;
-    padding: 0.3%;
-  }
-}
-
-
-.FCADCONTAINER {
-  img {
-    width: 18%;
-    padding: 0.3%;
-  }
+.three-column-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin-bottom: 20px;
 }
