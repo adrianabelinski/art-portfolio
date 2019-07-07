@@ -162,6 +162,10 @@ img.rounded {
       margin-bottom: 10px;
     }
   }
+
+  @include media-query($on-palm) {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
 .three-column-grid {
@@ -169,4 +173,8 @@ img.rounded {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   margin-bottom: 20px;
+
+  @include media-query($on-palm) {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
