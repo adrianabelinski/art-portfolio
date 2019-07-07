@@ -84,11 +84,11 @@ img.rounded {
 }
 
 .portfolio {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
   a {
     overflow: hidden;
-    float: left;
-    display: block;
-    width: 33.3333%;
     background-size: 100% 100%;
 
     img {
@@ -100,10 +100,10 @@ img.rounded {
       transform: scale(1.2);
       opacity: 0.0;
     }
+  }
 
-    @include media-query($on-palm) {
-      width: 100%;
-    }
+  @include media-query($on-palm) {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 

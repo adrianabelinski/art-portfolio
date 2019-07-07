@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Adriana Belinski
 description: Adriana Belinski is a graphic designer in Minneapolis, Minnesota, and specializes in creating identities and branding.
-keywords: adriana, belinski, graphic, designer, minneaolis, branding, marketing, creative, colors,
+keywords: adriana, belinski, graphic, designer, minneaolis, branding, marketing, creative, colors
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
