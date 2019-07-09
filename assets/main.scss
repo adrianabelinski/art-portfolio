@@ -169,6 +169,12 @@ img.rounded {
   }
 }
 
+#amai-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 42.25% 57.75%;
+  }
+}
+
 .three-column-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
