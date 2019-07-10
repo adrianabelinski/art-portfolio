@@ -22,12 +22,12 @@ h1, h2, h3, h4, h5, .site-header {
 }
 
 a:hover {
-  color: #f980ff;
+  color: #fba290;
   text-decoration: none;
 }
 
 a {
-  color: #47bfe3;
+  color: #f56091;
   text-decoration: none;
 }
 
@@ -41,8 +41,12 @@ a {
   width: 100%;
 }
 
+//img.rounded {
+ // border-radius: 50%;
+//}
+
 img.rounded {
-  border-radius: 50%;
+
 }
 
 .site-header {
