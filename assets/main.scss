@@ -45,10 +45,6 @@ a {
  // border-radius: 50%;
 //}
 
-img.rounded {
-
-}
-
 .site-header {
   background: white;
   border-top: 0px;
@@ -176,6 +172,18 @@ img.rounded {
 #amai-side-by-side {
   @media screen and (min-width: $on-palm) {
     grid-template-columns: 42.25% 57.75%;
+  }
+}
+
+#etsy1-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 45.50% 54.50%;
+  }
+}
+
+#etsy2-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 52.50% 47.50%;
   }
 }
 
