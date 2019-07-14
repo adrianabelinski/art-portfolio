@@ -206,10 +206,26 @@ a {
 
 
 
+.image {
+  img {
+    display: block;
+    width: 35%;
+    margin: auto;
+  }
+}
 
 
+#alison-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 40.25% 59.75%;
+  }
+}
 
-
+#alison2-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 33% 33% 33%;
+  }
+}
 
 
 #app-store-button-container img {
