@@ -217,49 +217,45 @@ a {
   margin: 10px 0px;
 }
 
-.iphone-xs-video-container {
-  // width: 100%;
-  max-width: 400px;
-  padding-bottom: 200.408997955%;
-  position: relative;
-  box-sizing: border-box !important;
-
-  video {
-    width: 100%;
-    height: 100%;
-    padding: 5.6%;
-    top: 0px;
-    left: 0px;
-    position: absolute;
-  }
-
-  .video-overlay {
-    width: 100%;
-    height: 100%;
-    top: 0px;
-    left: 0px;
-    position: absolute;
-    background-image: url("/assets/images/iphone-xs-frame.png");
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-}
-
-#iphone-video-desktop {
-  display: none;
-}
-
-#iphone-video-mobile {
+.alison-video-outer-container {
+  width: 100%;
+  text-align: center;
   margin-bottom: 1em;
-}
 
-@media screen and (min-width: $on-palm) {
-  #iphone-video-desktop {
-    display: block;
+  .alison-video-middle-container {
+    margin: 0px auto;
+    max-width: 350px;
+
+    .alison-video-inner-container {
+      width: 100%;
+      padding-bottom: 200.408997955%;
+      position: relative;
+      box-sizing: border-box !important;
+
+      video {
+        width: 100%;
+        height: 100%;
+        padding: 5.6%;
+        top: 0px;
+        left: 0px;
+        position: absolute;
+      }
+
+      .video-overlay {
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        position: absolute;
+        background-image: url("/assets/images/iphone-xs-frame.png");
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+    }
   }
 
-  #iphone-video-mobile {
-    display: none;
-  }
+  
 }
+
+
