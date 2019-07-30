@@ -255,6 +255,10 @@ a {
         top: 0px;
         left: 0px;
         position: absolute;
+        background-image: url("/assets/images/iphone-xs-video-fallback-screenshot.png");
+        background-position: center;
+        background-size: 87%;
+        background-repeat: no-repeat;
       }
 
       .video-overlay {
