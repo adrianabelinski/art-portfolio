@@ -10,7 +10,19 @@ layout: portfolio-item
 
 <p>Antisocial Alison is a sticker pack that I illustrated, depicting the comedic facial expressions of a stereotypical American teen. With the help of an iOS and web developer, we put our sticker pack on the App Store and created <a href="https://antisocialalison.com">antisocialalison.com.</a></p>
 
-{% include alison-video.html %}
+<div class="alison-video-outer-container">
+  <div class="alison-video-middle-container">
+    <div class="alison-video-inner-container">
+      <video id="iphone-xs-video" autoplay loop muted playsinline type="video/mp4">
+        <source src="/assets/videos/iphone-xs-video.mp4" />
+      </video>
+      <div class="video-overlay"></div>
+      <script>
+        document.getElementById('iphone-xs-video').play();
+      </script>
+    </div>
+  </div>
+</div>
 
 <br><br><br> 
 
