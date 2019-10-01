@@ -58,9 +58,37 @@ a {
 
 .site-title {
   letter-spacing: 1px !important;
-  img {
+}
+
+.website-logo-container {
+  width: 70px;
+  height: 60px;
+  margin: 0px 10px 5px 0px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+
+  div {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px 60px;
+    width: 70px;
     height: 60px;
-    padding: 0px 10px 5px 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+
+  .website-logo-animated {
+    background-image: url("/assets/images/adriana-icon3gif.gif");
+  }
+
+  .website-logo-static {
+    background-image: url("/assets/images/adriana-icon3.gif");
+  }
+
+  &:hover {
+    .website-logo-static { display: none; }
   }
 }
 
@@ -375,7 +403,6 @@ a {
   from {opacity: .4}
   to {opacity: 1}
 }
-
 
 
 
