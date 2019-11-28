@@ -41,6 +41,11 @@ a {
   width: 100%;
 }
 
+.seven-width {
+  display: block;
+  width: 70%;
+}
+
 //img.rounded {
  // border-radius: 50%;
 //}
@@ -200,6 +205,19 @@ a {
 #amai-side-by-side {
   @media screen and (min-width: $on-palm) {
     grid-template-columns: 42.25% 57.75%;
+  }
+}
+
+#TL-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 57% 43%;
+  }
+}
+
+
+#SS-side-by-side {
+  @media screen and (min-width: $on-palm) {
+    grid-template-columns: 41.75% 58.25%;
   }
 }
 
